@@ -1,0 +1,5 @@
+Pillow
+pycfg
+astunparse
+pygraphviz
+python-tk

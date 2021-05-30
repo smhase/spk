@@ -1,0 +1,5 @@
+pip install -r requirement.txt
+bash app_installation.sh
+
+To run the file
+python3 main.py testfile.py
